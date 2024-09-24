@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="8" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-24T13:07:21 IST" name="WestGateSuite" finished-at="2024-09-24T13:09:13 IST" duration-ms="111912">
+    <groups>
+    </groups>
+    <test started-at="2024-09-24T13:07:21 IST" name="Test" finished-at="2024-09-24T13:09:13 IST" duration-ms="111912">
+      <class name="com.appiumdemo.WestGate">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.appiumdemo.WestGate@7f3b84b8]" started-at="2024-09-24T13:07:21 IST" name="beforeTest" finished-at="2024-09-24T13:07:21 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="launchingApp()[pri:0, instance:com.appiumdemo.WestGate@7f3b84b8]" started-at="2024-09-24T13:07:21 IST" name="launchingApp" finished-at="2024-09-24T13:07:57 IST" duration-ms="36046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingApp -->
+        <test-method signature="playerLogin()[pri:0, instance:com.appiumdemo.WestGate@7f3b84b8]" started-at="2024-09-24T13:07:57 IST" name="playerLogin" finished-at="2024-09-24T13:08:03 IST" duration-ms="5087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playerLogin -->
+        <test-method signature="StraightBetConfig()[pri:0, instance:com.appiumdemo.WestGate@7f3b84b8]" started-at="2024-09-24T13:08:03 IST" name="StraightBetConfig" finished-at="2024-09-24T13:08:22 IST" duration-ms="19901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StraightBetConfig -->
+        <test-method signature="ParlayBetConfig()[pri:0, instance:com.appiumdemo.WestGate@7f3b84b8]" started-at="2024-09-24T13:08:22 IST" name="ParlayBetConfig" finished-at="2024-09-24T13:08:42 IST" duration-ms="20042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ParlayBetConfig -->
+        <test-method signature="TeaserBetConfig()[pri:0, instance:com.appiumdemo.WestGate@7f3b84b8]" started-at="2024-09-24T13:08:42 IST" name="TeaserBetConfig" finished-at="2024-09-24T13:09:03 IST" duration-ms="20081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeaserBetConfig -->
+        <test-method signature="logout()[pri:0, instance:com.appiumdemo.WestGate@7f3b84b8]" started-at="2024-09-24T13:09:03 IST" name="logout" finished-at="2024-09-24T13:09:13 IST" duration-ms="10703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.appiumdemo.WestGate -->
+    </test> <!-- Test -->
+  </suite> <!-- WestGateSuite -->
+</testng-results>
